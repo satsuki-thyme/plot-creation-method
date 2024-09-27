@@ -1,0 +1,58 @@
+# 凡例集
+- item: 全体像
+  explanaiton:
+    - exlample:
+      - /01 gen fct --- --- f -
+      - /01 odl rsv --- lst f -
+      - /02 odl trg --- --- f b
+    - item: num.
+      example: 00, 01...
+      contents: キャラクター番号
+    - item: category
+      example: gen, odl, pst, lov
+      contents: カテゴリー
+    - item: function
+      example: fct, rsv, tar, snd, rcv
+      contents: 機能
+    - item: here
+      example: lst, mid, fst, 001, 002...
+      contents: アイテムの位置、固有番号
+    - item: address
+      example: lst, mid, fst, 001, 002...
+      contents: アイテムの宛先
+    - item: front/back
+      example: f, b
+      contents: アイテムが主人公の前に現れるか否か
+    - item: battle
+      example: b, -
+      contents: アイテムが戦闘シーンを含むか否か
+- item: category
+  contents:
+    - item: gen
+      explanaiton: 一般（general）
+    - item: odl
+      explanaiton: 試練（ordeal）
+    - item: pst
+      explanaiton: 過去（past）
+    - item: lov
+      explanaiton: 恋愛（love）
+- item: function
+  contents:
+    - item: fct
+      explanaiton: 事実（fact）
+    - item: rsv
+      explanaiton: 伏線（foreshadowing）
+    - item: tar
+      explanaiton: 伏線回収（resolve）
+    - item: snd
+      explanaiton: rcvに対する事前の主たる事実（send）
+    - item: tar
+      explanaiton: sndに対する後の副次的な事実（receive）
+- item: here, address
+  contents:
+    - item: lst
+      explanaiton: 最後（last）
+    - item: mid
+      explanaiton: 中間（middle）
+    - item: fst
+      explanaiton: 最初（fast）
