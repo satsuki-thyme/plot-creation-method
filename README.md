@@ -1,6 +1,6 @@
-# プロットの制作手法
+# 小説の制作手法
 
-## 目次
+## 目録
 
 - text/instructions.md:                        手順書
 - text/legends.md:                             凡例

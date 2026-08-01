@@ -46,12 +46,12 @@
     - grp11: グループ11
 - __3. 種類の系統__
   - 誰の「何」の物語構造要素かを表す
-  - 特別な系統を作るときは適宜「l1A」（lineage 1 Actual）「l1R」（lineage 1 Relationship）「l1C」（lineage 1 Consequence）などとする
+  - 特別な系統を作るときは適宜「l1O」（lineage 1 Ordeal）「l1R」（lineage 1 Relationship）「l1C」（lineage 1 Consequence）などとする
   - 凡例
     - chA: キャラクターメインプロット - 試練（character ordeal）
     - chR: キャラクターメインプロット - 試練関連（character relationship）
     - chC: キャラクターメインプロット - 試練の結果（character consequence）
-    - l1A: キャラクターサブプロット - 試練（lineaeg 1 actual）
+    - l1O: キャラクターサブプロット - 試練（lineaeg 1 ordeal）
     - l1R: キャラクターサブプロット - 試練関連（lineage 1 relationship）
     - l1C: キャラクターサブプロット - 試練の結果（lineage 1 consequence）
     - key: 統合プロット - キー要素（key element）
